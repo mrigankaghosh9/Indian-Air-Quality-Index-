@@ -8,15 +8,27 @@ The data is combined(across the years and states) and largely clean version of t
 # The columns are
 
 stn_code (station code)
+
 sampling_date (date of sample collection)
+
 state (Indian State)
+
 location (location of sample collection)
+
 agency
+
 type (type of area)
+
 so2 (sulphur dioxide concentration)
+
 no2 (nitrogen dioxide concentration)
+
 rspm (respirable suspended particualte matter concentration)
+
 spm (suspended particulate matter)
+
 location_monitoring_station
+
 pm2_5 (particulate matter 2.5)
+
 date
